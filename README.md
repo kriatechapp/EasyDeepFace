@@ -1,5 +1,14 @@
 
+PASSO 1: Instalar Python no Windows
 
+Baixe a versão 64 bits do Python 3.10 ou 3.11:
+https://www.python.org/downloads/windows/
+
+Marque a opção “Add Python to PATH” durante a instalação.
+
+Verifique no terminal (cmd ou PowerShell):
+
+python --version
 Deve mostrar Python 3.10.x ou Python 3.11.x
 
 Verifique se é 64 bits:
